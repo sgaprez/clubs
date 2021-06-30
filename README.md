@@ -1,0 +1,2 @@
+# clubs
+clubs info page
